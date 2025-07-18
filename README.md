@@ -32,21 +32,12 @@
 
 ### 
 
-<div align="center">
+<div align="left">
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br/>
 
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+***
