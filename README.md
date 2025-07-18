@@ -32,10 +32,14 @@
 
 ### 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align="left">
 
-###
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  
+  <br><br>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false" />
 
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false" />
+</div>
 
 ###
