@@ -32,17 +32,21 @@
 
 ### 
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
+
 <div align="center">
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=RedBlue-awik&icon=6&color=2" />
-  </a>
 
 </div>
+
+###
