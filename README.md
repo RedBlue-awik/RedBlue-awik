@@ -35,10 +35,14 @@
 <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=RedBlue-awik&icon=6&color=2" />
+  </a>
 
----
-[![](https://visitcount.itsvg.in/api?id=RedBlue-awik&icon=6&color=2)](https://visitcount.itsvg.in)
+</div>
