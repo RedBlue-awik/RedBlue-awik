@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
 </div>
