@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="reactjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 </div>
 
 ###
@@ -28,7 +28,7 @@
 
 ###
 
-<h5 align="left">📚 I'm currently learning laravel and unity<br><br>⚡ Having Fun</h5>
+<h5 align="left">📚 I'm Learning<br><br>⚡ Having Fun</h5>
 
 ### 
 
