@@ -38,7 +38,12 @@
   
   <br><br>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RedBlue-awik&theme=codeSTACKr&hide_border=false" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedBlue-awik/RedBlue-awik/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedBlue-awik/RedBlue-awik/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/RedBlue-awik/RedBlue-awik/output/pacman-contribution-graph.svg">
+</picture>
+
 
 </div>
 
