@@ -1,13 +1,5 @@
 <h1 align="center">Hello I'm Awik 👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -32,8 +24,8 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBlue-awik&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RedBlue-awik&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   <br><br>
   
   <picture>
