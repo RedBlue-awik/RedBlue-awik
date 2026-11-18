@@ -27,10 +27,10 @@ Halo! Aku **Awik**, nama lengkapku **Muhammad Fawaidul Aisyi**, dari Indonesia ð
 
 ## ðŸ“Š Bahasa yang Sering Kupakai
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RedBlue-awik&layout=compact&custom_title=Bahasa%20yang%20Sering%20Kupakai&bg_color=1B1B3A&title_color=E8A598&text_color=FFF1EA&border_color=E8A598&border_radius=12&hide_border=false&include_all_commits=false&count_private=false" height="205" alt="Statistik bahasa pemrograman yang sering dipakai Awik" />
 <img align="right" src="./assets/bintang.gif" height="205" alt="Animasi anime: anak berambut pirang di bawah langit berbintang" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RedBlue-awik&layout=compact&custom_title=Bahasa%20yang%20Sering%20Kupakai&bg_color=1B1B3A&title_color=E8A598&text_color=FFF1EA&border_color=E8A598&border_radius=12&hide_border=false&include_all_commits=false&count_private=false" height="205" alt="Statistik bahasa pemrograman yang sering dipakai Awik" />
 
-<br>
+<br clear="both"/>
 
 ## ðŸŽ® Aktivitas Kontribusi
 
@@ -40,4 +40,4 @@ Halo! Aku **Awik**, nama lengkapku **Muhammad Fawaidul Aisyi**, dari Indonesia ð
   <img alt="Grafik kontribusi bergaya Pac-Man" src="https://raw.githubusercontent.com/RedBlue-awik/RedBlue-awik/output/pacman-contribution-graph.svg">
 </picture>
 
-<<img src="./assets/footer-wave.svg" width="100%" alt="Terima kasih sudah mampir!" />
+<img src="./assets/footer-wave.svg" width="100%" alt="Terima kasih sudah mampir!" />
