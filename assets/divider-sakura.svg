@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="800" height="80" role="img" aria-label="Pembatas: kelopak sakura berjatuhan">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8A598" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E8A598" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#E8A598" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="39.0" width="800" height="2" fill="url(#line)"/>
+  
+  <g>
+    <animateMotion dur="7.0s" begin="-2.0s" repeatCount="indefinite" path="M188,-8 C235,18 141,46 211,88"/>
+    <g transform="scale(1.26)">
+      <ellipse rx="6.5" ry="3.6" fill="#FAD3DA" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.0s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="6.8s" begin="-4.0s" repeatCount="indefinite" path="M261,-8 C236,18 286,46 248,88"/>
+    <g transform="scale(0.84)">
+      <ellipse rx="6.5" ry="3.6" fill="#F7C5CE" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.4s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="7.0s" begin="-6.7s" repeatCount="indefinite" path="M467,-8 C511,18 423,46 489,88"/>
+    <g transform="scale(1.10)">
+      <ellipse rx="6.5" ry="3.6" fill="#F4B6C2" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.0s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="8.3s" begin="-0.2s" repeatCount="indefinite" path="M778,-8 C750,18 806,46 764,88"/>
+    <g transform="scale(0.89)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.0s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="8.5s" begin="-2.0s" repeatCount="indefinite" path="M211,-8 C171,18 251,46 191,88"/>
+    <g transform="scale(1.23)">
+      <ellipse rx="6.5" ry="3.6" fill="#F7C5CE" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="3.2s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="6.7s" begin="-1.0s" repeatCount="indefinite" path="M507,-8 C538,18 476,46 522,88"/>
+    <g transform="scale(1.09)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.9s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="9.0s" begin="-3.5s" repeatCount="indefinite" path="M533,-8 C568,18 498,46 550,88"/>
+    <g transform="scale(0.81)">
+      <ellipse rx="6.5" ry="3.6" fill="#F4B6C2" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.4s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="5.7s" begin="-3.4s" repeatCount="indefinite" path="M527,-8 C487,18 567,46 507,88"/>
+    <g transform="scale(1.09)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="3.4s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="8.7s" begin="-3.0s" repeatCount="indefinite" path="M194,-8 C245,18 143,46 219,88"/>
+    <g transform="scale(1.13)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="3.2s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="7.0s" begin="-1.1s" repeatCount="indefinite" path="M87,-8 C38,18 136,46 62,88"/>
+    <g transform="scale(0.82)">
+      <ellipse rx="6.5" ry="3.6" fill="#F7C5CE" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.8s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="6.7s" begin="-3.4s" repeatCount="indefinite" path="M187,-8 C134,18 240,46 160,88"/>
+    <g transform="scale(1.17)">
+      <ellipse rx="6.5" ry="3.6" fill="#F7C5CE" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.1s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="8.1s" begin="-0.5s" repeatCount="indefinite" path="M469,-8 C518,18 420,46 493,88"/>
+    <g transform="scale(0.96)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.1s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="5.7s" begin="-1.9s" repeatCount="indefinite" path="M274,-8 C237,18 311,46 255,88"/>
+    <g transform="scale(1.29)">
+      <ellipse rx="6.5" ry="3.6" fill="#F7C5CE" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.1s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="8.8s" begin="-7.9s" repeatCount="indefinite" path="M162,-8 C187,18 137,46 174,88"/>
+    <g transform="scale(1.00)">
+      <ellipse rx="6.5" ry="3.6" fill="#F7C5CE" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.2s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="8.7s" begin="-4.1s" repeatCount="indefinite" path="M456,-8 C499,18 413,46 477,88"/>
+    <g transform="scale(0.88)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.5s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+  <g>
+    <animateMotion dur="5.9s" begin="-4.3s" repeatCount="indefinite" path="M30,-8 C76,18 -16,46 53,88"/>
+    <g transform="scale(0.95)">
+      <ellipse rx="6.5" ry="3.6" fill="#EFA3B5" opacity="0.92">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.7s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+  </g>
+</svg>
